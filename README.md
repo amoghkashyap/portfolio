@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Amogh Kashyap
+A Responsive Free One Page Portfolio Website 
 
 
 
