@@ -1418,8 +1418,8 @@ if ( typeof Object.create !== "function" ) {
 		itemsScaleUp : false,
 
 		slideSpeed : 200,
-		paginationSpeed : 800,
-		rewindSpeed : 1000,
+		paginationSpeed : 2500,
+		rewindSpeed : 3000,
 
 		autoPlay : false,
 		stopOnHover : false,
