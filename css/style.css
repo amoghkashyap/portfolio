@@ -725,6 +725,10 @@ h4.timeline-title a:hover {
   background-color: #eb5424 !important;
 }
 
+.timeline-badge.secondary {
+  background-color: #6c757d !important;
+}
+
 .timeline-badge.success {
   background-color: #237f52 !important;
 }
@@ -769,10 +773,19 @@ ul.year li:nth-child(3){
 	    margin-top: 129px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
+	    margin-top: 120px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 155px;
+}
+ul.year li:nth-child(6){
+	    margin-top: 150px;
+}
+.timeline-badge.info i {
+    font-size: 0.9em;
+}
+.timeline-badge.secondary i {
+    font-size: 0.9em;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
